@@ -12,4 +12,5 @@ Vendieg
 Autocrazia d'Oriente 
 Potentato di Iconio 
 [[Regno di Strigonia\|Regno di Strigonia]] 
+[[Nazioni/Barovia\|Barovia]]
 Territori di Heldann 
