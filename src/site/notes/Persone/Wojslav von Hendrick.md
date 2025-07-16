@@ -10,7 +10,7 @@ Pjotr era infatti nato da Verena, la figlia minore di una ricca famiglia di merc
 
 Tuttavia, in qualche modo Wojslav è riuscito a rivendicare l'appartenenza al casato, a suo dire con prove inconfutabili della legittima nascita di Pjotr. Voci e pettegolezzi parlano invece di come Wojslav sia riuscito a rimpinguare le casse del regno, di fatto comprando il riconoscimento della sua ascendenza. 
 
-Questioni dinastiche ed i decessi prematuri di figli di alcuni membri del ramo principale dei von Hendrick hanno giovato alla posizione di Wojslav. Infatti, grazie al matrimonio con [[Raissa Ingo\|Raissa Ingo]], giovane nobile di [[Strigonia\|Strigonia]], è ritenuto 5° in linea di successione del trono di Aquilanera (nel caso lei producesse un erede maschio la posizione di Wojslav potrebbe ulteriormente migliorare). 
+Questioni dinastiche ed i decessi prematuri di figli di alcuni membri del ramo principale dei von Hendrick hanno giovato alla posizione di Wojslav. Infatti, grazie al matrimonio con [[Raissa Ingo\|Raissa Ingo]], giovane nobile di [[Nazioni/Regno di Strigonia\|Strigonia]], è ritenuto 5° in linea di successione del trono di Aquilanera (nel caso lei producesse un erede maschio la posizione di Wojslav potrebbe ulteriormente migliorare). 
 
 Anche in questo caso, pettegolezzi e maldicenze hanno accompagnato l'evento, sia per la minore età della sposa, sia per la presunta predilezione di Wojslav per i ragazzi. Per alcuni, il matrimonio combinato sarebbe servito soltanto per mettere a tacere quest'ultima diceria e per consolidare il ruolo di Wojslav nella famiglia von Hendrick. 
 

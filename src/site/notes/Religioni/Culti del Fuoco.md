@@ -26,7 +26,7 @@
  
  Un'altra evoluzione del culto legata a forme di organizzazione sociale meno complesse (di cultura non stanziale o comunque non urbana), è quella diffusasi tra gli [[Elfi\|Elfi]] delle [[Montagne Nere\|Montagne Nere]], che devoti della Eveigh Ænye, la Fiamma Immortale, una forza della natura e al contempo una manifestazione della forza vitale. Anche gli Alti Elfi di [[Albion\|Albion]] hanno un credo simile, la Ra'Deith che rappresenta l'ardore vitale, mentale e guerresco concesso dal Fuoco Divino ai sui fedeli. 
  
- Tra i popoli delle terre occidentali del continente è invece presente [[Lauge\|Lauge]], un'altra personificazione del fuoco, la cui fede è messa in crisi dal credo dell'[[Unico Dio\|Unico Dio]] diffusosi grazie a [[Religioni/Ecclesia\|Ecclesia]], in particolare nell'[[Nazioni/Impero\|Impero]], a [[Darokin\|Darokin]] ed in [[Averoigne\|Averoigne]]. 
+ Tra i popoli delle terre occidentali del continente è invece presente [[Lauge\|Lauge]], un'altra personificazione del fuoco, la cui fede è messa in crisi dal credo dell'[[Unico Dio\|Unico Dio]] diffusosi grazie a [[Religioni/Ecclesia\|Ecclesia]], in particolare nell'[[Impero\|Impero]], a [[Darokin\|Darokin]] ed in [[Averoigne\|Averoigne]]. 
 
 
  

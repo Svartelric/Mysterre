@@ -6,6 +6,6 @@
 
 Geoffrey è un combattente, ma è stato scelto come comandante della sua brigata per le sue abilità di furtività e persuasione, che lo hanno reso uno delle spie più attive della sua setta. 
 
-La sua ultima missione è quella di entrare nell'[[Nazioni/Impero\|Impero]] ed infiltrarsi nelle celebrazioni per l'incoronazione di Rotbart, al fine di impedirla e rubare la [[Corona di Ferro\|Corona di Ferro]]. 
+La sua ultima missione è quella di entrare nell'[[Nazioni/Impero Heldannico\|Impero]] ed infiltrarsi nelle celebrazioni per l'incoronazione di Rotbart, al fine di impedirla e rubare la [[Corona di Ferro\|Corona di Ferro]]. 
 
 A La Soglia ha collaborato col vescovo di [[Religioni/Ecclesia\|Ecclesia]], [[Persone/Barlowe\|Barlowe]], per ottenere un salvacondotto di viaggio per sé e la sua banda in cambio dell'eliminazione

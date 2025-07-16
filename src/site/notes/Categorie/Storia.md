@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/categorie/storia/"}
 ---
 
-[[Storia/Guglielmo il Motoso\|Guglielmo il Motoso]] 
+[[Storia/Aligernos\|Aligernos]]
+[[Storia/Guglielmo il Motoso\|Guglielmo il Motoso]]
 [[Storia/Konrad I\|Konrad I]]
 [[Storia/Libuše\|Libuše]] 
 [[Storia/Paulos di Antioch\|Paulos di Antioch]] 

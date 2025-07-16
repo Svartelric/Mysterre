@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/categorie/nazioni/"}
 ---
 
-[[Nazioni/Impero\|Impero]] 
+[[Nazioni/Impero Heldannico\|Impero Heldannico]] 
 [[Aquilanera\|Aquilanera]]
 Ierendi
 Averoigne
@@ -11,6 +11,6 @@ Albion
 Vendieg
 Autocrazia d'Oriente 
 Potentato di Iconio 
-[[Regno di Strigonia\|Regno di Strigonia]] 
+[[Nazioni/Regno di Strigonia\|Regno di Strigonia]] 
 [[Nazioni/Barovia\|Barovia]]
 Territori di Heldann 

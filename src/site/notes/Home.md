@@ -10,6 +10,7 @@ Potete esplorare l'archivio liberamente, o iniziare da una delle seguenti catego
 [[Categorie/Geografia\|Geografia]]
 [[Categorie/Lingue\|Lingue]]
 [[Categorie/Nazioni\|Nazioni]]
+[[Categorie/Persone\|Persone]]
 [[Categorie/Razze\|Razze]]
 [[Categorie/Religioni\|Religioni]]
 [[Categorie/Storia\|Storia]]
