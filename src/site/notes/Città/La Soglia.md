@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/citta/la-soglia/"}
 ---
 
+# La Soglia
+
 **La Soglia**, come è conosciuta in [[Basso-Gotico\|Basso-Gotico]], è l'attuale capitale di [[Aquilanera\|Aquilanera]]. Sorge sulla confluenza dei due fiumi [[Alb\|Alb]] e [[Ezter\|Ezter]] che si uniscono poi al braccio principale della [[Geografia/Viltava\|Viltava]].
 
 **Etimologia**

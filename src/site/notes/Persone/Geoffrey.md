@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/persone/geoffrey/"}
 ---
 
+# Geoffrey
+
 **Geoffrey Novak** è un Umano proveniente dalle campagne vicino a [[Città/La Soglia\|La Soglia]], a capo di una banda di spie della setta conosciuta come [[Corona della Gloria\|Corona della Gloria]]. Come tutti i membri della setta, è un fanatico fedele del [[Religioni/Culti del Fuoco\|Dio del Fuoco]]. 
 
 Geoffrey è un combattente, ma è stato scelto come comandante della sua brigata per le sue abilità di furtività e persuasione, che lo hanno reso uno delle spie più attive della sua setta. 

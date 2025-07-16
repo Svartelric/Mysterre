@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/categorie/persone/"}
 ---
 
+# Le genti di Mysterre
+
 **Amici e alleati**:
 [[Storia/Aligernos\|Aligernos]]
 [[Persone/Geoffrey\|Geoffrey]] 

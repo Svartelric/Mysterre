@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/religioni/culti-del-fuoco/"}
 ---
 
+# Culti del Fuoco
+ 
  I **culti del Dio del Fuoco** sono un insieme di religioni molto diffuse su [[Geografia/Mysterre\|Mysterre]]. 
 
 **Origini**

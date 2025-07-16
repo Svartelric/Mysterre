@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/persone/shanoa/"}
 ---
 
+# Shanoa
+
 **Shanoa** è la Prima Assistente Bibliotecaria del tempio di [[Religioni/Ecclesia\|Ecclesia]] nel Ghetto di [[Città/La Soglia\|La Soglia]], pur non essendo originaria della città. 
 
 Tuttavia, afferma di non avere ricordi della sua vita precedente a causa di una perdita di memoria quasi totale. 

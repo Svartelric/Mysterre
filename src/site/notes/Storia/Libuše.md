@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/storia/libuse/"}
 ---
 
+# Libuše
+
 Secondo la leggenda, la Principessa Libuše, reggente dei clan di [[Traladar\|Traladar]] insediatisi sulle colline a sud della confluenza, per sedare i malumori tra i suoi sudditi, promise loro che avrebbe fondato una città che avrebbe offerto loro protezione e prosperità. 
 Una notte, dalla finestra della sua stanza, Libuše vide la luce di un fuoco brillare nei boschi sull'altra sponda della Vitlava, in cima al monte che sovrastava la confluenza dei due fiumi [[Alb\|Alb]] e [[Ezter\|Ezter]]. 
 Libuše si vestì in fretta e partì a cavallo per il monte con le sue guardie. Una volta giunta in prossimità del luogo dove credeva di aver visto il fuoco, una fitta nebbia si levò dal fiume, e la principessa rimase separata dal suo drappello. 

@@ -2,7 +2,9 @@
 {"dg-publish":true,"permalink":"/storia/sankt-marten/"}
 ---
 
-Marten di Savaria fu un soldato e ufficiale dell'esercito dell'[[Autocrazia di Thyatis\|Autocrazia]] nato in Strigonia attorno al 320 d.T., poi uno dei principali profeti dell'Unico Dio.
+# Sankt Marten 
+
+**Marten di Savaria** fu un soldato e ufficiale dell'esercito dell'[[Autocrazia di Thyatis\|Autocrazia]] nato in Strigonia attorno al 320 d.T., poi uno dei principali profeti dell'Unico Dio.
 
 **Biografia**
  Non è noto quando di preciso si convertì ad [[Religioni/Ecclesia\|Ecclesia]], ma fu probabilmente dopo il 343 d.T., quando l'esercito Thyatiano invase la costa della penisola Iconiana. La religione dell'Unico Dio si stava già diffondendo da almeno un secolo nel [[Potentato\|Potentato]], che stava disperatamente tentando di estirparla. 

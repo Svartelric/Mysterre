@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/categorie/storia/"}
 ---
 
+# Storia e storie del Mondo Noto
+
 [[Storia/Aligernos\|Aligernos]]
 [[Storia/Guglielmo il Motoso\|Guglielmo il Motoso]]
 [[Storia/Konrad I\|Konrad I]]

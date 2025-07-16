@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/storia/sevora/"}
 ---
 
+# Sevora
+
 **Sevora l'Elementalista del Vento**, nata tra il 310 ed il 330 d.T., era una strega di [[Averoigne\|Averoigne]], conosciuta soprattutto per i suoi [[Diari\|Diari]] e la sua corrispondenza con [[Storia/Sankt Marten\|Sankt Marten]]. 
 
 Le informazioni su Sevora sono molto scarse, ma si sa per certo che nacque a [[Vyones\|Vyones]] e lì sviluppò i suoi innati poteri magici. La stregoneria all'epoca non era ancora bandita dalle province di Averoigne, e Sevora godeva di una discreta fama di utilizzatrice di magia presso le varie corti nobiliari. 

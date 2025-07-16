@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/persone/barlowe/"}
 ---
 
+# Barlowe
+
 **Barlowe** è il vescovo della Chiesa di [[Religioni/Ecclesia\|Ecclesia]] per la città di [[Città/La Soglia\|La Soglia]]. 
 
 È stato il mentore di [[Persone/Shanoa\|Shanoa]], ed è stato lui a portarla a La Soglia con il resto del suo seguito. 

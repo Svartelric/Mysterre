@@ -2,14 +2,16 @@
 {"dg-publish":true,"permalink":"/categorie/lingue/"}
 ---
 
- Alto-Gotico (la forma attuale della Lingua Antica dell'Ovest) 
+# Lingue delle Terre Conosciute
 
- Basso-Gotico (lingua comune dell'Impero, un mix di Lingua Antica e Heldannico)
+ **Alto-Gotico** (la forma attuale della Lingua Antica dell'Ovest) 
+
+ **Basso-Gotico** (lingua comune dell'Impero, un mix di Lingua Antica e Heldannico)
  
- Traladariano (lingua locale, usata dalla popolazione comune e dagli Elfi di boschi e montagne)
+ **Traladariano** (lingua locale, usata dalla popolazione comune e dagli Elfi di boschi e montagne)
  
- Thyatiano (la forma moderna della Lingua Antica dell'Est)
+ **Thyatiano** (la forma moderna della Lingua Antica dell'Est)
  
- Heldannico (lingua nordica)
+ **Heldannico** (lingua nordica)
  
- Albionese (lingua derivata dalla lingua dei Pitti, mescolata con l'Heldannico e l'Elfico antico)
+ **Albionese** (lingua derivata dalla lingua dei Pitti, mescolata con l'Heldannico e l'Elfico antico)

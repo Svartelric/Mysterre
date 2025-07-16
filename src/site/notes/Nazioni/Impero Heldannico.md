@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/nazioni/impero-heldannico/"}
 ---
 
+# Impero Heldannico
+
 L'**Impero Heldannico** o semplice **Impero**, è una confederazione di principati, ducati e città-stato sottoposti all'autorità dell'Imperatore dei [[Territori Heldannici\|Territori Heldannici]]. 
 
 Il titolo di Imperatore fu utilizzato per la prima volta da [[Ottokar il Grande\|Ottokar il Grande]], stando alle cronache di Widukind di Corvey, a significare l'egemonia su tutte le terre abitate da Alemanni, Ostfranchi e Heldanni.

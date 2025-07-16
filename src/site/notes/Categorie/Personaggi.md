@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/categorie/personaggi/"}
 ---
 
+# Personaggi
+
 [[Personaggi/David Brocc\|David Brocc]]
 [[Personaggi/Galatea\|Galatea]]
 [[Personaggi/Horatio\|Horatio]]

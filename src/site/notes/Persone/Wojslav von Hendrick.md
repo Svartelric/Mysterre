@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/persone/wojslav-von-hendrick/"}
 ---
 
+# Wojslav 
+
 **Wojslav von Hendrick**, conosciuto anche come "**Faina**", è un nobile di [[Aquilanera\|Aquilanera]] appartenente alla dinastia regnante. 
 
 La sua appartenenza alla famiglia von Hendrick non è stata sempre data per scontata, poiché suo padre, il mercenario [[Pjotr il Senzanome\|Pjotr il Senzanome]], era figlio illegittimo dell'allora sovrano [[Borislav I\|Borislav I]]. 
