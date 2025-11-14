@@ -22,7 +22,7 @@
 
  All'inizio dell'[[Era delle Conquiste\|Era delle Conquiste]], la città fu assediata più volte da vari clan guerrieri Heldannici, che si insediarono infine nell'area e successivamente si integrarono con la popolazione locale, attorno al V secolo d.T. Il nome Prascholdt appare per la prima volta in questa epoca, nei registri di un tempio di Efesto. 
 
- Nel 650 d.T. l'[[Autocrazia di Thyatis\|Autocrazia di Thyatis]] conquista le città traladariane lungo la costa, risalendo fin quasi a Trascholdt, com'era nota la città all'epoca. Le milizie che non si arresero subito all'invasione si attestarono alla confluenza tra Viltava e Laubach, dove fondarono la piazzaforte di [[Città/Kelvin\|Luvigan]] (l'attuale Kelvin). 
+ Nel 650 d.T. l'[[Thyatis \|Autocrazia di Thyatis]] conquista le città traladariane lungo la costa, risalendo fin quasi a Trascholdt, com'era nota la città all'epoca. Le milizie che non si arresero subito all'invasione si attestarono alla confluenza tra Viltava e Laubach, dove fondarono la piazzaforte di [[Città/Kelvin\|Luvigan]] (l'attuale Kelvin). 
 
  Successivamente, l'Autocrazia sbaragliò le ultime resistenze traladariane, conquistando Luvigan nel 665 d.T., ed estese la sua influenza sino a La Soglia, sebbene la città non sia mai stata effettivamente conquistata, grazie nuovamente alla posizione defilata della città. 
  Infatti, la distanza ed il tragitto impervio servirono da deterrente contro un'ulteriore prolungamento della campagna di invasione, già molto gravosa per il morale delle truppe thyatiane e per i forzieri dell'Autocrate. Questo fatto pare sia all'origine del detto [["L'imperatore è alla soglia, ma non ancora in casa"\|"L'imperatore è alla soglia, ma non ancora in casa"]]. 

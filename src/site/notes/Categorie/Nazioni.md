@@ -11,7 +11,7 @@ Averoigne
 Darokin
 Albion
 Vendieg
-Autocrazia d'Oriente 
+[[Nazioni/Thyatis\|Thyatis]]
 Potentato di Iconio 
 [[Nazioni/Regno di Strigonia\|Regno di Strigonia]] 
 [[Nazioni/Barovia\|Barovia]]

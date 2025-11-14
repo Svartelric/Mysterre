@@ -20,7 +20,7 @@
 **Culti**
  Come accennato, a seconda del contesto culturale e della società in cui si è diffusa, la fede nel Dio del Fuoco ha assunto una varietà di forme.
   
- A [[Thyatis\|Thyatis]] il culto più diffuso è quello di [[Efesto\|Efesto]], una personificazione del fuoco come divinità della forgia e della creazione. Incidentalmente, essendo la razza dei [[Nani\|Nani]] particolarmente dedita all'arte della fucina, Efesto condivide aspetti e tratti con una delle loro religioni più comuni, ovvero il culto di [[Vhorst-un-den-Krach\|Vhorst-un-den-Krach]] (il "calore sotto le rocce", ma talvolta chiamato "occhio della montagna" e come tale raffigurato). 
+ A [[Nazioni/Thyatis\|Thyatis]] il culto più diffuso è quello di [[Efesto\|Efesto]], una personificazione del fuoco come divinità della forgia e della creazione. Incidentalmente, essendo la razza dei [[Nani\|Nani]] particolarmente dedita all'arte della fucina, Efesto condivide aspetti e tratti con una delle loro religioni più comuni, ovvero il culto di [[Vhorst-un-den-Krach\|Vhorst-un-den-Krach]] (il "calore sotto le rocce", ma talvolta chiamato "occhio della montagna" e come tale raffigurato). 
  
  Nelle Steppe d'oro, l'adorazione del dio-fuoco ha mantenuto tratti più arcaici, probabilmente in virtù dell'organizzazione sociale tribale e nomade. In questo caso, il Dio del Fuoco ha vaghi tratti antropomorfi, ma non sempre, e mantiene l'originale ruolo di energia distruttrice e creatrice. 
  
