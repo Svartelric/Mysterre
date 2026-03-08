@@ -14,3 +14,5 @@ Potete esplorare l'archivio liberamente, o iniziare da una delle seguenti catego
 [[Categorie/Razze\|Razze]]
 [[Categorie/Religioni\|Religioni]]
 [[Categorie/Storia\|Storia]]
+
+[[Almanacco\|Almanacco]]
