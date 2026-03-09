@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/nazioni/regno-di-aquilanera/"}
 ---
 
-# Aquilanera
+# Regno di Aquilanera
 
 Il **Regno di Aquilanera** è una monarchia ereditaria al centro del continente settentrionale di [[Geografia/Mysterre\|Mysterre]].
 
