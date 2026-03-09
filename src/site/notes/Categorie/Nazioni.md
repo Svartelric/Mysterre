@@ -5,7 +5,7 @@
 # Stati e nazioni
 
 [[Nazioni/Impero Heldannico\|Impero Heldannico]] 
-[[Aquilanera\|Aquilanera]]
+[[Nazioni/Regno di Aquilanera\|Regno di Aquilanera]]
 Ierendi
 Averoigne
 Darokin
