@@ -15,4 +15,4 @@ Potete esplorare l'archivio liberamente, o iniziare da una delle seguenti catego
 [[Categorie/Religioni\|Religioni]]
 [[Categorie/Storia\|Storia]]
 
-[[Almanacco\|Almanacco]]
+[[Almanacco Thyatiano\|Almanacco Thyatiano]]
