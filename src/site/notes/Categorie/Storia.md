@@ -4,7 +4,10 @@
 
 # Storia e storie del Mondo Noto
 
+**Figure storiche e leggendarie**
+
 [[Storia/Aligernos\|Aligernos]]
+[[Storia/Eszterdiel\|Eszterdiel]]
 [[Storia/Guglielmo il Motoso\|Guglielmo il Motoso]]
 [[Storia/Konrad I\|Konrad I]]
 [[Storia/Libuše\|Libuše]] 
@@ -12,5 +15,9 @@
 [[Storia/Petros l'Anatolico\|Petros l'Anatolico]] 
 [[Storia/Sankt Marten\|Sankt Marten]] 
 [[Storia/Santa Markovia\|Santa Markovia]]
-[[Storia/Secondo Cataclisma\|Secondo Cataclisma]] 
 [[Storia/Sevora\|Sevora]]
+
+**Documenti**
+
+[[Storia/Editto di Wolod\|Editto di Wolod]]
+[[Storia/Secondo Cataclisma\|Secondo Cataclisma]]
