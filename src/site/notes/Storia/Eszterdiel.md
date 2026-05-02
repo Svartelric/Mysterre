@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/storia/eszterdiel/"}
 ---
 
+# Eszterdiel
+
 La Regina dei Boschi della Luce di Luna, **Eszterdiel la Venerata**, fu una leggendaria sovrana degli [[Elfi dei Boschi\|Elfi dei Boschi]] nei territori dell'attuale [[Nazioni/Regno di Strigonia\|Strigonia]]. 
 
 **Fonti**
