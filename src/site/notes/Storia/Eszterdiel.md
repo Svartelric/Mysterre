@@ -11,7 +11,7 @@ La Regina dei Boschi della Luce di Luna, **Eszterdiel la Venerata**, fu una legg
 
  La maggior parte delle informazioni su Eszterdiel, sfortunatamente per gli studiosi di storia, sono relegate alla tradizione orale elfica. Questo comporta non pochi problemi per chi tenta di ricostruire la biografia della mitica regina o di valutare la veridicità delle storie su di lei. 
 
- Altre fonti utili per ricostruire la vita o perlomeno la leggenda di Eszterdiel, sono le raffigurazioni presenti in antichi edifici, templi e fortezze elfiche dei secoli passati. I pochi arazzi sopravvissuti mostrano episodi della vita della regina, mentre alto rilievi, affreschi e qualche raro dipinto rappresentano spaccati della quotidianità della sua corte, come scene di caccia, udienze reali, persino battaglie. 
+ Altre fonti utili per ricostruire la vita o perlomeno la leggenda di Eszterdiel, sono le raffigurazioni presenti in antichi edifici, templi e fortezze elfiche dei secoli passati. I pochi arazzi sopravvissuti mostrano episodi della vita della regina, mentre altorilievi, affreschi e qualche raro dipinto rappresentano spaccati della quotidianità della sua corte, come scene di caccia, udienze reali, persino battaglie. 
 
 **Biografia - Gioventù e ascesa**
  Eszterdiel nacque, secondo la maggior parte dei racconti, nelle Radure Orientali, l'unico avamposto degli Elfi dei Boschi oltre i [[Monti Ferro\|Monti Ferro]], vicino all'area dove adesso sorge [[Galantha\|Galantha]]. Dei suoi genitori si sa che erano due guerrieri, e che avevano perso i tre figli maschi in pochi anni di aspre schermaglie con un esercito umano (si ritiene possa trattarsi dell'esercito Thyatiano, all'epoca della prima espansione verso occidente). 
