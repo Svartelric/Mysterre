@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/categorie/religioni/"}
+{"dg-publish":true,"permalink":"/categorie/religioni/","dg-note-properties":{}}
 ---
 
 # Religioni, culti e sette

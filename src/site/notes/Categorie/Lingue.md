@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/categorie/lingue/"}
+{"dg-publish":true,"permalink":"/categorie/lingue/","dg-note-properties":{}}
 ---
 
 # Lingue delle Terre Conosciute

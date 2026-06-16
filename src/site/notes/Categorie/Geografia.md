@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/categorie/geografia/"}
+{"dg-publish":true,"permalink":"/categorie/geografia/","dg-note-properties":{}}
 ---
 
 # Geografia di Mysterre

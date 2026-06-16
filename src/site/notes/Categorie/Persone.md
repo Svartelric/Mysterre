@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/categorie/persone/"}
+{"dg-publish":true,"permalink":"/categorie/persone/","dg-note-properties":{}}
 ---
 
 # Le genti di Mysterre

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/categorie/citta/"}
+{"dg-publish":true,"permalink":"/categorie/citta/","dg-note-properties":{}}
 ---
 
 # Città 

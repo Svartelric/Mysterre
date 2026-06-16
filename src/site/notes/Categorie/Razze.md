@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/categorie/razze/"}
+{"dg-publish":true,"permalink":"/categorie/razze/","dg-note-properties":{}}
 ---
 
 # Razze di Mysterre

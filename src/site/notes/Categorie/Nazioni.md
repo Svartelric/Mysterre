@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/categorie/nazioni/"}
+{"dg-publish":true,"permalink":"/categorie/nazioni/","dg-note-properties":{}}
 ---
 
 # Stati e nazioni

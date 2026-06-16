@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/categorie/personaggi/"}
+{"dg-publish":true,"permalink":"/categorie/personaggi/","dg-note-properties":{}}
 ---
 
 # Personaggi

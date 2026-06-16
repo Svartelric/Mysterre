@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/categorie/storia/"}
+{"dg-publish":true,"permalink":"/categorie/storia/","dg-note-properties":{}}
 ---
 
 # Storia e storie del Mondo Noto
@@ -21,3 +21,6 @@
 
 [[Storia/Editto di Wolod\|Editto di Wolod]]
 [[Storia/Secondo Cataclisma\|Secondo Cataclisma]]
+
+**Fazioni**
+[[Storia/Ordine della Viola delle Profondità\|Ordine della Viola delle Profondità]]
