@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/storia/secondo-cataclisma/"}
+{"dg-publish":true,"permalink":"/storia/secondo-cataclisma/","dg-note-properties":{}}
 ---
 
 # Il Cataclisma

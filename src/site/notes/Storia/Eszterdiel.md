@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/storia/eszterdiel/"}
+{"dg-publish":true,"permalink":"/storia/eszterdiel/","dg-note-properties":{}}
 ---
 
 # Eszterdiel

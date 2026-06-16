@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/storia/editto-di-wolod/"}
+{"dg-publish":true,"permalink":"/storia/editto-di-wolod/","dg-note-properties":{}}
 ---
 
 L'**Editto di Wolod** è un testo redatto circa 200 anni fa, nel 971 d.T., durante la Prima Adunata degli Elettori di Strigonia. Nel corso dei procedimenti dell'Adunata, una delle preoccupazioni fu quella di stabilire regole e norme per la nomina di vari incarichi di rilievo presso la Corte Reale. 

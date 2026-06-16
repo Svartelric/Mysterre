@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/persone/wojslav-von-hendrick/"}
+{"dg-publish":true,"permalink":"/persone/wojslav-von-hendrick/","dg-note-properties":{}}
 ---
 
 # Wojslav 

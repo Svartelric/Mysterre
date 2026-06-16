@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/almanacco-thyatiano/","title":"Almanacco Thyatiano"}
+{"dg-publish":true,"permalink":"/almanacco-thyatiano/","title":"Almanacco Thyatiano","dg-note-properties":{"title":"Almanacco Thyatiano"}}
 ---
 
 <iframe

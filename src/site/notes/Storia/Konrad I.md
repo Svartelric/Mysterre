@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/storia/konrad-i/"}
+{"dg-publish":true,"permalink":"/storia/konrad-i/","dg-note-properties":{}}
 ---
 
 # Konrad I 

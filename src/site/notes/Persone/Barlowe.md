@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/persone/barlowe/"}
+{"dg-publish":true,"permalink":"/persone/barlowe/","dg-note-properties":{}}
 ---
 
 # Barlowe

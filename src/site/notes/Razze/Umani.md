@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/razze/umani/"}
+{"dg-publish":true,"permalink":"/razze/umani/","dg-note-properties":{}}
 ---
 
 # Umani

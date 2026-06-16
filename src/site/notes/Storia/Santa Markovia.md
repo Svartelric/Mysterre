@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/storia/santa-markovia/"}
+{"dg-publish":true,"permalink":"/storia/santa-markovia/","dg-note-properties":{}}
 ---
 
 # Santa Markovia

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/persone/shanoa/"}
+{"dg-publish":true,"permalink":"/persone/shanoa/","dg-note-properties":{}}
 ---
 
 # Shanoa

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nazioni/regno-di-strigonia/"}
+{"dg-publish":true,"permalink":"/nazioni/regno-di-strigonia/","dg-note-properties":{}}
 ---
 
 # Regno di Strigonia

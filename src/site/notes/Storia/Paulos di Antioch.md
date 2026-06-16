@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/storia/paulos-di-antioch/"}
+{"dg-publish":true,"permalink":"/storia/paulos-di-antioch/","dg-note-properties":{}}
 ---
 
 # Paulos 

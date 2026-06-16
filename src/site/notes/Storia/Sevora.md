@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/storia/sevora/"}
+{"dg-publish":true,"permalink":"/storia/sevora/","dg-note-properties":{}}
 ---
 
 # Sevora

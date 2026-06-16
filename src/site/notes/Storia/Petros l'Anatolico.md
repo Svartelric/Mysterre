@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/storia/petros-l-anatolico/"}
+{"dg-publish":true,"permalink":"/storia/petros-l-anatolico/","dg-note-properties":{}}
 ---
 
 # Petros 

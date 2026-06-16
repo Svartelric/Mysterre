@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/storia/libuse/"}
+{"dg-publish":true,"permalink":"/storia/libuse/","dg-note-properties":{}}
 ---
 
 # Libuše

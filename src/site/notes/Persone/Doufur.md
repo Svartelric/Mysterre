@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/persone/doufur/"}
+{"dg-publish":true,"permalink":"/persone/doufur/","dg-note-properties":{}}
 ---
 
 # Doufur 

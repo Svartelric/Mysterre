@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/persone/geoffrey/"}
+{"dg-publish":true,"permalink":"/persone/geoffrey/","dg-note-properties":{}}
 ---
 
 # Geoffrey

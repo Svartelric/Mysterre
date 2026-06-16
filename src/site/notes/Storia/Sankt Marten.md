@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/storia/sankt-marten/"}
+{"dg-publish":true,"permalink":"/storia/sankt-marten/","dg-note-properties":{}}
 ---
 
 # Sankt Marten 

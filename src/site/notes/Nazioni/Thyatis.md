@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nazioni/thyatis/"}
+{"dg-publish":true,"permalink":"/nazioni/thyatis/","dg-note-properties":{}}
 ---
 
 # Thyatis

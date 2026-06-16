@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citta/la-soglia/"}
+{"dg-publish":true,"permalink":"/citta/la-soglia/","dg-note-properties":{}}
 ---
 
 # La Soglia

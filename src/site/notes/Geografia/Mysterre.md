@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/geografia/mysterre/"}
+{"dg-publish":true,"permalink":"/geografia/mysterre/","dg-note-properties":{}}
 ---
 
 # Mysterre

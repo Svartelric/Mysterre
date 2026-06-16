@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/religioni/culti-del-fuoco/"}
+{"dg-publish":true,"permalink":"/religioni/culti-del-fuoco/","dg-note-properties":{}}
 ---
 
 # Culti del Fuoco

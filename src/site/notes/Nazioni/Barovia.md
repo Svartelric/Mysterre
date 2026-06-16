@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nazioni/barovia/"}
+{"dg-publish":true,"permalink":"/nazioni/barovia/","dg-note-properties":{}}
 ---
 
 # Barovia

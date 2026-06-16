@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/geografia/viltava/"}
+{"dg-publish":true,"permalink":"/geografia/viltava/","dg-note-properties":{}}
 ---
 
 # Viltava

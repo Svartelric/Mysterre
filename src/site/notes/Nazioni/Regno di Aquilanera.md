@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nazioni/regno-di-aquilanera/"}
+{"dg-publish":true,"permalink":"/nazioni/regno-di-aquilanera/","dg-note-properties":{}}
 ---
 
 # Regno di Aquilanera

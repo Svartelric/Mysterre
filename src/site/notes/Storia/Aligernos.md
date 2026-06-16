@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/storia/aligernos/"}
+{"dg-publish":true,"permalink":"/storia/aligernos/","dg-note-properties":{}}
 ---
 
 # Aligernos

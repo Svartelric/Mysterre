@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nazioni/impero-heldannico/"}
+{"dg-publish":true,"permalink":"/nazioni/impero-heldannico/","dg-note-properties":{}}
 ---
 
 # Impero Heldannico

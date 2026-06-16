@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citta/kelvin/"}
+{"dg-publish":true,"permalink":"/citta/kelvin/","dg-note-properties":{}}
 ---
 
 # Kelvin

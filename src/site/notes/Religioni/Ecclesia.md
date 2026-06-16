@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/religioni/ecclesia/"}
+{"dg-publish":true,"permalink":"/religioni/ecclesia/","dg-note-properties":{}}
 ---
 
 # Ecclesia 
